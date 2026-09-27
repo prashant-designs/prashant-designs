@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Prashant
 
-<!--
-**prashant-designs/prashant-designs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product manager building **Polarin**, India's first self-serve NaaS platform. Designer by training, builder by habit - I ship the things I spec.
 
-Here are some ideas to get you started:
+**Now**
+- **Polarin AI Assistance** - an assistant that answers network questions with evidence. POC done, full build underway.
+- **Move With Design** - a learning platform I designed, built and run solo. Next.js · Supabase · Vercel. [movewithdesign.in](https://www.movewithdesign.in)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Here**
+- [Prashantfolio](https://github.com/prashant-designs/Prashantfolio) - the source of my portfolio, React + Vite. Every commit says why, not just what.
+- Most of my work lives in private repos, so the contribution graph counts more than the public list shows.
+
+**Elsewhere**
+[Portfolio](https://prashantfolio.in) · [LinkedIn](https://www.linkedin.com/in/prashant-kumar100/) · [Behance](https://www.behance.net/NAYA_DESIGN)
